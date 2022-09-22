@@ -1,1 +1,2 @@
-# Torsadagsopgave3
+# Torsdagsopgave3
+Simone Toft Hansen cph-sh575@cphbusiness.dk
